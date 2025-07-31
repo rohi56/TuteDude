@@ -59,7 +59,7 @@ Hello, Jay Dikshit! Welcome to Python Programming 🚀
 ## 🖼️ Screenshots / Output Images
 
 ### Task 1 Output
-![Task 1 Output](screenshots/Task1_output.jpg)
+![Task 1 Output](screenshots/Task1_Output.jpg)
 
 ### Task 2 Output
-![Task 2 Output](screenshots/Task2_output.jpg)
+![Task 2 Output](screenshots/Task2_Output.jpg)
