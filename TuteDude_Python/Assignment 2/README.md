@@ -27,9 +27,11 @@ Write a Python program that:
 **Expected Output Example:**
 
 Enter a number: 7
+
 7 is an Odd number.
 
 Enter a number: 12
+
 12 is an Even number.
 
 
@@ -45,7 +47,7 @@ Write a Python program that:
 **Expected Output Example:**
 The sum of integers from 1 to 50 is: 1275
 
-🖼️ Screenshots / Output Images
+
 ## 🖼️ Screenshots / Output Images
 
 ### Task 1: Odd Number Input
