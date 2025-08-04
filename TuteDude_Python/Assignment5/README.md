@@ -59,7 +59,10 @@ Extracted First 5 Elements: [1, 2, 3, 4, 5]
 Reversed Extracted List: [5, 4, 3, 2, 1]
 
 
---- 
+
+---
+
+## 📌 Screenshots / Output Images Snippet  
 
 ```markdown
 ## 🖼️ Screenshots / Output Images
@@ -72,3 +75,5 @@ Reversed Extracted List: [5, 4, 3, 2, 1]
 
 ### Task 2: List Slicing and Reversing
 ![Task 2 Output](screenshots/task2_output.jpg)
+
+
