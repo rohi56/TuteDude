@@ -60,11 +60,6 @@ Reversed Extracted List: [5, 4, 3, 2, 1]
 
 
 
----
-
-## 📌 Screenshots / Output Images Snippet  
-
-```markdown
 ## 🖼️ Screenshots / Output Images
 
 ### Task 1: Student Found in Dictionary
@@ -75,5 +70,6 @@ Reversed Extracted List: [5, 4, 3, 2, 1]
 
 ### Task 2: List Slicing and Reversing
 ![Task 2 Output](screenshots/task2_output.jpg)
+
 
 
