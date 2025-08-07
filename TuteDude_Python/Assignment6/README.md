@@ -30,5 +30,6 @@ Build a calculator using **Tkinter** that can perform basic arithmetic operation
 ## 📌 Screenshots / Output Images Snippet  
 
 ### Calculator GUI
-![Calculator GUI](screenshots/calculator_gui.jpg)
+![Calculator GUI](screenshots/Calculator_gui.jpg)
+
 
