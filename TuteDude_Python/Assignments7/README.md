@@ -12,16 +12,15 @@ The script **`Adding user input to database.py`** demonstrates how to connect to
 ---
 
 ## 📂 Project Structure
-Assignments7/
-└── postgres/
-├── Adding user input to database.py
-└── screenshots/
-├── Output1.jpg
-├── Output2.jpg
-├── Output3.jpg
-├── Output4.jpg
-├── Output5.jpg
-
+Assignments7/  
+└── postgres/  
+  ├── Adding user input to database.py  
+  └── screenshots/  
+    ├── Output1.jpg  
+    ├── Output2.jpg  
+    ├── Output3.jpg  
+    ├── Output4.jpg  
+    └── Output5.jpg  
 
 ---
 
@@ -44,49 +43,3 @@ All screenshots are available in the `screenshots/` folder:
 5. **Output5.jpg** – Final confirmation.  
 
 ---
-
-## ▶️ How to Run
-1. Install PostgreSQL and ensure it is running.
-2. Create a database and table according to the script requirements.
-3. Install required Python package:
-   ```bash
-   pip install psycopg2
-
-python "Adding user input to database.py"
-
-
----
-
-## 📷 Screenshots
-
-Below are the screenshots as per assignment requirements:
-
-### 1️⃣ Task 1 Output
-![Initial database connection and code execution.](screenshots/Output1.jpg)
-
-### 2️⃣ Task 2 Output
-![User input captured.](screenshots/Output2.jpg)
-
-### 3️⃣ Task 3 Output
-![Data successfully inserted.](screenshots/Output3.jpg)
-
-### 4️⃣ Task 4 Output
-![Database records displayed.](screenshots/Output4.jpg)
-
-### 5️⃣ Task 5 Output
-![Final confirmation.](screenshots/Output5.jpg)
-
----
-
-## ✅ Notes
-- No screenshots were cropped or modified.  
-- All outputs are shown exactly as they appeared during execution.  
-- System date and time are visible for authenticity.
-- The screenshots are in the correct order as per lecture sequence.
-
----
-
-## 📌 Submission
-- All screenshots are placed in the `screenshots` folder.
-- This README provides inline previews for quick review.
-- A zipped folder or PDF version can be shared via Google Drive for submission.
