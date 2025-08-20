@@ -27,26 +27,27 @@ This folder contains the output screenshots for the **Django User Registration &
 ---
 
 ## 1️⃣ Registration Page
-![Registration Page](register.jpg)
+![Registration Page](login/screenshots/register.jpg)
 
 ---
 
 ## 2️⃣ Login Page
-![Login Page](login.jpg)
+![Login Page](login/screenshots/login.jpg)
 
 ---
 
 ## 3️⃣ Home Page (After Login)
-![Home Page](home.jpg)
+![Home Page](login/screenshots/home.jpg)
 
 ---
 
 ## 4️⃣ Invalid Login Attempt
-![Invalid Login](invalid_login.jpg)
+![Invalid Login](login/screenshots/invalid_login.jpg)
 
 ---
 ✅ All screenshots are unedited and represent the actual project execution.
 
 
 	
+
 	
