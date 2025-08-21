@@ -42,32 +42,11 @@ It includes:
 	Visit http://127.0.0.1:8000
 	to access the project.
 	
-📂 Project Structure
 
-web/                     # Main Django project folder
-│
-├── app/                 # Django app with forms, views, urls
-│   ├── forms.py         # Form definitions
-│   ├── views.py         # Logic for rendering and handling forms
-│   ├── urls.py          # URL patterns
-│   └── templates/       # HTML templates for forms
-│
-├── web/                 # Project settings and main URLs
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-│
-├── screenshots/         # Folder containing screenshots
-│   ├── home.png
-│   ├── form.png
-│   └── result.png
-│
-├── db.sqlite3           # Database file (if included)
-├── manage.py            # Django management script
-└── README.md            # Project documentation
 
 📸 Screenshots
 
 
 ## Login Page
-![Login Page](login.jpg)
+
+![Info Page](web/screenshots/login_forms.jpg)
