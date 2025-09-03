@@ -62,21 +62,22 @@ pip install django djangorestframework django-filter==2.4.0
 ## Screenshots
 
 ### 1. Hello World using REST API
-![Hello World](screenshots/Hello_world_using_REST_API.jpg)
+![Hello World](blog/screenshots/Hello_world_using_REST_API.jpg)
 
 ### 2. Creating Model in Admin
-![Admin Model](screenshots/creating_model_in_admin.jpg)
+![Admin Model](blog/screenshots/creating_model_in_admin.jpg)
 
 ### 3. Posting API
-![Posting API](screenshots/posting_API.jpg)
+![Posting API](blog/screenshots/posting_API.jpg)
 
 ### 4. Adding User Name to the Post
-![User Name](screenshots/adding_user_name_to_the_post.jpg)
+![User Name](blog/screenshots/adding_user_name_to_the_post.jpg)
 
 ### 5. Search and Ordering Filters
-![Filters](screenshots/search_and_ordering_filters.jpg)
+![Filters](blog/screenshots/search_and_ordering_filters.jpg)
 
 ### 6. Segregating into Pages (Pagination)
-![Pagination](screenshots/segregating_into_pages.jpg)
+![Pagination](blog/screenshots/segregating_into_pages.jpg)
+
 
 
