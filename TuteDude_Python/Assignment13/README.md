@@ -13,7 +13,7 @@ It includes scripts for extracting data from web pages, filtering useful informa
 
 ## 📂 Project Structure  
 
-```plaintext
+
 webscrapping/
 │── content.py
 │── downloading_images.py
@@ -132,4 +132,5 @@ The `moon/` folder contains scraped images of the moon.
 The `nature/` folder contains scraped images of natural sceneries.  
 
 ### 📑 CSV Output  
+
 The `wikipedia_headings.csv` file contains extracted headings from a Wikipedia page.  
