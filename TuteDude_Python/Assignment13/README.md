@@ -38,7 +38,7 @@ webscrapping/
 └── nature/      # Downloaded images related to "nature"
     ├── 0ZUBmNNVLRCfn3NdU55nQ00UF64m2ObtcDS0grx02fA.jpg
     └── 1200px-Altja_j%C3%B5gi_Lahemaal.jpg
-```plaintext
+---
 ## 📝 Explanation of Files  
 
 - **`content.py`**  
@@ -134,4 +134,5 @@ The `nature/` folder contains scraped images of natural sceneries.
 ### 📑 CSV Output  
 
 The `wikipedia_headings.csv` file contains extracted headings from a Wikipedia page.  
+
 
