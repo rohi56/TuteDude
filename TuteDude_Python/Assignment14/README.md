@@ -98,7 +98,7 @@ Resizes an image to new dimensions.
 
 Applies morphological operations: erosion and dilation.
 
-![Erosion and Dilation](Assignment14/screenshots/erosion_dialation.jpg) 
+![Erosion and Dilation](screenshots/erosion_dialation.jpg) 
 
 
 ### 5. Opening and Closing 
@@ -211,5 +211,6 @@ Captures video and writes output to a new video file.
 Accesses the system webcam and displays live feed.
 
 ![Accessing the Webcam](Assignment14/screenshots/accessing_the_webcam.jpg)  
+
 
 
