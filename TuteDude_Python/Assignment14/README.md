@@ -69,7 +69,7 @@ OpenCV/
 ├── ds.mp4
 └── output.mp4
 
-'''
+---
 
 ## Explanation of Files & Outputs & Screenshots  
 ### 1. Reading an Image
@@ -211,6 +211,7 @@ Captures video and writes output to a new video file.
 Accesses the system webcam and displays live feed.
 
 ![Accessing the Webcam](Assignment14/screenshots/accessing_the_webcam.jpg)  
+
 
 
 
